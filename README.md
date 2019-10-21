@@ -1,5 +1,5 @@
 # imageManipulation
-Uses the Pillow library's image module to manipulate the input image (the logo of the University of San Fransisco) and create new png files.
+Uses the Pillow library's image module to manipulate the input image (the logo of the University of San Francisco) and create new png files.
 
 Each function first takes in the original dimensions and creates a blank image to place pixels on.
 The pixels are placed onto the blank using nested for loops, where i is the column and j is the row.
